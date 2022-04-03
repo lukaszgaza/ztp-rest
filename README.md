@@ -1,4 +1,13 @@
-# ztp-rest
+# Architektura REST
+
+REST (Representational State Transfer) jest to style architektoniczny zdefiniowany  w 2000 przez Roya Fieldinga w jego [rozprawie doktorskiej](https://www.ics.uci.edu/~fielding/pubs/dissertation/rest_arch_style.htm).
+Z założeniami tego stylu można zapoznać się na przykład [tutaj](http://architektura-oprogramowania.blogspot.com/p/styl-architektoniczny-rest.html).
+
+REST jako styl jest niezwiązany z konkretną implementacją i użytym językiem programowania.
+
+Popularnym frameworkem służącym do tworzenia serwisów REST w Javie jest Spring. Krótkie wprowadzenie do tworzenia serwisów można znaleźć [tutaj](https://spring.io/guides/gs/rest-service/).
+
+W przypadku Pythona najpopularniejszym [Flask](https://flask.palletsprojects.com/en/2.1.x/quickstart/).
 
 
 ## Zadania
